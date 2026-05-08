@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd \"Sarvya carrer\" && pnpm install && pnpm run build",
+  "outputDirectory": "Sarvya carrer/.next",
+  "installCommand": "cd \"Sarvya carrer\" && pnpm install",
+  "framework": "nextjs",
+  "rootDirectory": "Sarvya carrer"
+}

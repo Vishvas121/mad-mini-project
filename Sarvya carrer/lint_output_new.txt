@@ -1,0 +1,6 @@
+
+> my-project@0.1.0 lint C:\Users\sreej\Downloads\engineering-career-os
+> next lint
+
+Invalid project directory provided, no such directory: C:\Users\sreej\Downloads\engineering-career-os\lint
+ ELIFECYCLE  Command failed with exit code 1.
